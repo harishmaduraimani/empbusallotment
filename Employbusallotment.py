@@ -1,6 +1,7 @@
 import mysql.connector as mys
 
 #connection to bus database
+print("hiiiii")
 myconn=mys.connect(
     host='localhost',
     username='root',
